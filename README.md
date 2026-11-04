@@ -5,9 +5,19 @@
 <h1 align="center">UVA RadioPlay</h1>
 
 <p align="center">
-  <b>Automatización de radio para Windows: tu radio al aire las 24 horas, sonando como una profesional.</b><br>
-  <a href="https://radio.uvaplay.com">radio.uvaplay.com</a> ·
-  <a href="../../releases/latest">Descargar la última versión</a>
+  <b>Automatización de radio para Windows: tu radio al aire las 24 horas, sonando como una profesional.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/uvaplay/UvaRadioPlay/releases/latest/download/UvaRadioPlay-Setup.exe">
+    <img src="https://img.shields.io/badge/Descargar_para_Windows-UVA_RadioPlay-7C3AED?style=for-the-badge" alt="Descargar UVA RadioPlay para Windows" height="44">
+  </a>
+</p>
+
+<p align="center">
+  Windows 10 y 11 (64 bits) ·
+  <a href="https://github.com/uvaplay/UvaRadioPlay/releases/latest">Novedades de la versión</a> ·
+  <a href="https://radio.uvaplay.com">radio.uvaplay.com</a>
 </p>
 
 <p align="center">
@@ -18,7 +28,9 @@ UVA RadioPlay elige la música, lanza tus tandas a su hora, da la hora encima de
 
 ## Descargar
 
-Ve a **[Releases](../../releases/latest)** y descarga `UvaRadioPlay-Setup-X.Y.Z.0.exe`.
+**[⬇️ Descargar UVA RadioPlay (última versión)](https://github.com/uvaplay/UvaRadioPlay/releases/latest/download/UvaRadioPlay-Setup.exe)**
+
+También en **[Releases](https://github.com/uvaplay/UvaRadioPlay/releases/latest)**, con las novedades de cada versión.
 
 - Windows 10 y 11 (64 bits). El instalador incluye todo lo necesario.
 - Necesitas una licencia: tu correo registrado en [uvaplay.com](https://uvaplay.com).
