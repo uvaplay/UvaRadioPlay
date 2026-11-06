@@ -50,10 +50,11 @@ También en **[Releases](https://github.com/uvaplay/UvaRadioPlay/releases/latest
 - **Programación por horario**: programas del día, relojes que definen cómo suena cada hora y pauta diaria imprimible.
 - **Eventos y tandas**: a horas fijas, cada X minutos o cada X canciones. Tandas, cuñas en rotación sin repetir, pisadores al inicio o al final de la canción, locución horaria y enlaces de streaming.
 - **Directo sin estrés**: botonera con pestañas y teclas F1–F12, jingles encima de la música, notas, pre-escucha por otra tarjeta y la hora al instante con <kbd>Ctrl</kbd>+<kbd>H</kbd>.
-- **Consola en pantalla**: perillas de volumen, monitor y fundido automático, faders de entrada y corte, y cartel «AL AIRE».
+- **Consola en pantalla**: bloques separados para lo que suena, la consola (perillas de volumen, monitor y fundido automático, y faders de entrada y corte) y el cartel «AL AIRE», todo con el color de tu tema.
 - **Plugins integrados**: se activan cuando los necesitas. **DJ PODER MIC** mete tu micrófono a la mezcla y baja la música sola mientras hablas, con vúmetro LED y atajo <kbd>Ctrl</kbd>+<kbd>M</kbd>.
 - **Streaming incluido**: Shoutcast v1 y v2 en MP3, AAC y AAC+, a varios servidores y calidades a la vez, con volumen propio, frecuencia de muestreo por salida, título de la canción y reconexión automática.
-- **Bibliotecas grandes**: elige qué carpetas de música usar, sin duplicados, con escaneo rápido y barra de progreso, pensado para cientos de miles de canciones.
+- **Bibliotecas grandes**: elige qué carpetas de música usar, sin duplicados, con escaneo rápido y barra de progreso, pensado para cientos de miles de canciones. Busca por título, artista o nombre de archivo y **filtra por año o por década**.
+- **Listas M3U enormes**: se cargan en segundo plano con barra de progreso, sin detener la emisión.
 - **Sonido de radio**: volumen igualado (LUFS, sin tocar tus archivos), silencios recortados, crossfade, fundidos de entrada y corte, y procesador con ecualizador, AGC, multibanda y limitador.
 - **Control y reportes**: vúmetro real, monitor del equipo y reporte diario en CSV para anunciantes.
 - **Hecho para no fallar**: guardado cada 5 segundos y, si el programa se reinicia, continúa la misma canción desde donde iba.
